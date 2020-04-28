@@ -18,7 +18,7 @@ export const Header = styled.View`
 `;
 
 export const BalanceContainer = styled.View`
-
+    margin-bottom: 5px;
 `;
 
 export const BalanceTitle = styled.Text`

@@ -37,6 +37,7 @@ export default function Route() {
     <StatusBar barStyle="light-content" backgroundColor="#fff"/>
     <NavigationContainer>
       <Tab.Navigator
+       initialRouteName="Wallet"
        screenOptions={({ route, navigation }) => ({
          tabBarIcon: ({color, size, focused}) => {
            if(route.name == 'Pay'){

@@ -2,6 +2,12 @@
     <img alt="PicPay" title="#picPay" width="400px" src="https://miro.medium.com/max/9644/1*0p48XIDSTTvZbi8gCpCYog.png" />
 </h4>
 
+<div align="center" styles="flex-direction: row;">
+  <img alt="PicPay" title="#screen" width="250px" src="./assets/image1.png " />
+  <img alt="PicPay" title="#screen" width="250px" src="./assets/image01.png " />
+  <img alt="PicPay" title="#screen" width="250px" src="./assets/image2.png " />
+ </div>
+
 
 # Index
 
